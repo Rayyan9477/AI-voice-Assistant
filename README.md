@@ -1,17 +1,6 @@
 # Siri Voice LLAMA-3 🧙‍♂️🪄
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: shricodev](https://img.shields.io/twitter/follow/shricodev.svg?style=social)](https://twitter.com/shricodev)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/shricodev/siri-voice-llama3?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/shricodev/siri-voice-llama3?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/shricodev/siri-voice-llama3?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/shricodev/siri-voice-llama3?color=red&style=plastic)
-
-## 👀 Check Out My Blog Post on this Project!
-
-> I have a complete blog post explaining the project [here](https://dev.to/shricodev/build-your-personal-siri-with-llama-3-like-a-pro-5h1o).
 
 ## 📚 Overview
 
